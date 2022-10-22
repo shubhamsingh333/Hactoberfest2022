@@ -95,15 +95,7 @@ Some important commands that you are going to need are listed below:
 ## Contributors
 Please add your name in the list in the following format:
 
-` - Name - [File Name](File Address)`  
-- [Praveen Chaudhary](https://github.com/chaudharypraveen98) - [Median_of_two_sorted_arrays](/Leetcode-Solutions/Arrays/Median_of_two_sorted_arrays.py)
-- [Nikunj Aggarwal](https://github.com/Nikunj-Aggarwal/) - [Binary-search_C++.cpp](Algorithms/Searching/Binary-search_C++.cpp)  
-- Harshit Malhotra - [Insertion-sort_C++.cpp](Algorithms/Sorting/Insertion-sort_C++.cpp), [DynamicAllocation2DArrays_C++.cpp](Data-structures/Arrays/DynamicAllocation2DArrays_C++.cpp), [ReverseArray_C++.cpp](Data-structures/Arrays/ReverseArray_C++.cpp) 
-- [Priyank Rastogi](https://github.com/Priyankcoder/)  
-- Rishabh Jain 
-- [Anurag Teckchandani](https://github.com/anurag444/)
-- [Yashi Srivastava](https://github.com/yashii/) 
-- [Devyank Nagpal](https://github.com/2devyank/)
+` - Name - [File Name](File Address)` 
 
 
 Please do not spam the repository with unnecessary Pull Requests. Happy Hacking!
